@@ -1,0 +1,18 @@
+/* Footer.css */
+.footer-container {
+    background-color: #f8f8f8; /* Light background color for footer */
+    width: 100%; /* Full width */
+    padding: 20px 0; /* Top and bottom padding */
+    position: relative; /* Relative positioning */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between; /* Space between items */
+    margin: 0 2rem; /* Margin on sides */
+}
+
+.footer-content .MuiPaper-root {
+    flex: 1; /* Allow items to grow equally */
+    margin: 0 1rem; /* Space between each item */
+}

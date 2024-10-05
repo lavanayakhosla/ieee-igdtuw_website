@@ -1,0 +1,11 @@
+*{
+    font-family: "roboto", "sans-serif";
+    overflow-x: hidden;
+}
+.main{
+    min-height: fit-content;
+    flex: 1;
+    padding: 0; 
+    margin: 0;
+    box-sizing: border-box;
+}
